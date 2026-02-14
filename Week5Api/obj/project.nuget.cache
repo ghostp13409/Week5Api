@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5hBtWjC76n4=",
+  "success": true,
+  "projectFilePath": "C:\\Class\\sem6\\PROG3176DistributedApplicationsDevelopment\\Assignments\\Lab4\\Week5Api\\Week5Api\\Week5Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gajja\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\gajja\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\gajja\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.2\\swashbuckle.aspnetcore.swagger.10.1.2.nupkg.sha512",
+    "C:\\Users\\gajja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.2\\swashbuckle.aspnetcore.swaggergen.10.1.2.nupkg.sha512",
+    "C:\\Users\\gajja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.2\\swashbuckle.aspnetcore.swaggerui.10.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
