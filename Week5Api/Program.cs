@@ -10,7 +10,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-app.MapGet("/hello", () => "Hello from your Azure API running .NET 10");
+app.MapGet("/hello", () => "Your API has been updated through CI and CD");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
